@@ -16,7 +16,7 @@ role = "Doctorate of Operations Research"
 organizations = [ { name = "The Hebrew University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include applying operations research methods to transportation policy."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
