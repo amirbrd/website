@@ -104,4 +104,4 @@ Let us plot the casualties with ggplot2
 
 ![](/img/cyclist_casualties.png)
 
-**Important note:** we should always remember that each point in the graph represents hundreds of people whose lives might be shuttered, or even finished, in an instant. Many of the casualties were hit by a 1.5-ton metal cruising in the city streets in speeds of 50 km/h or more. I booked accommodation in the dormitory from Sunday the 23rd  until Wednesday the 26th. Is it Possible to add another day, till Thursday the 27th?
+**Important note:** we should always remember that each point in the graph represents hundreds of people whose lives might be shuttered, or even finished, in an instant. Many of the casualties were hit by a 1.5-ton metal cruising in the city streets in speeds of 50 km/h or more.
