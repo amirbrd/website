@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Cycling in shared local streets"
+summary = "How can we quickly encourage more cycling in local city street where true segregation is not always required"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
