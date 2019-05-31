@@ -51,3 +51,5 @@ Much of the urban traffic infrastructure is actually made of local streets with 
 2. Give cyclists the Legitimacy - this can be done with signs such as "Cyclist may use full lane" and on-road sharrow-like markings in the middle of the street.
 
 3. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium.
+
+![some](/img/featured.jpg)
