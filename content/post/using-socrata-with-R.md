@@ -19,8 +19,7 @@ categories = []
   focal_point = ""
 +++
 
-In this short tutorial, I demonstrate how to use Socrata data, which
-many cities in the US use, to analyze transportation data.
+Many Us cities like [New York](https://opendata.cityofnewyork.us/)  or [Seattle](https://data.seattle.gov/) make much of their data available for developers to analyze and reveal insights and they do that through the [Socrata Open Data API](https://dev.socrata.com/). In this short tutorial, I demonstrate how to use Socrata to analyze transportation data from New York City, and more specifically, cyclist accidents trend in the city.
 
 ### load the RSocrata data ###
     library(RSocrata)
