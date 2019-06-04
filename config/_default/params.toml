@@ -5,11 +5,11 @@
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
 color_theme = "default"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "amir.brudner@mail.huji.ac.il"
 phone = ""
-address = ""
+address = "Mount Scopus campus, The Hebrew University of Jerusalem "
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

@@ -13,7 +13,7 @@ role = "Doctorate of Operations Research"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The Hebrew University", url = "" } ]
+organizations = [ { name = "The Hebrew University", url = "http://bschool.huji.ac.il/en/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include applying operations research methods to transportation policy."

@@ -1,5 +1,5 @@
 +++
-title = "5 Notes on the City"
+title = "Five hindrances - the automobile, the city and the resident"
 date = 2019-05-26T12:42:00+03:00
 draft = false
 
