@@ -21,6 +21,14 @@ categories = []
 
 Many Us cities like [New York](https://opendata.cityofnewyork.us/)  or [Seattle](https://data.seattle.gov/) make much of their data available for developers to analyze and reveal insights and they do that through the [Socrata Open Data API](https://dev.socrata.com/). In this short tutorial, I demonstrate how to use Socrata to analyze transportation data from New York City, and more specifically, cyclist accidents trend in the city.
 
+### Locate the data ###
+So first let's navigate to the [Department of Transportation (DOT) data page](https://data.cityofnewyork.us/browse?Dataset-Information_Agency=Department+of+Transportation+%28DOT%29) and search for "collisions" in the search box. The first result we are receiving is NYPD Motor Vehicle Collisions data which is a breakdown of every collision in NYC by location and injury.
+
+![](/img/ny-collisions-search-results.jpg)
+
+Going into that web page and scrolling down, we can see it was first created in April 2014. At the time of writing this post, the data contains more than 1.5 million records and 29 columns. Scrolling further down, we can see which columns are available e.g. date, time, borough etc. scrolling back to the top, we can see the API button. Clicking on that and we can see the JSON API endpoint link. This is the link we need in order to connect and extract the data. Copy it to the clipboard.
+![](/img/ny-collisions-api.jpg)
+
 ### load the RSocrata data ###
     library(RSocrata)
 
