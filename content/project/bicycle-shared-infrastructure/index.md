@@ -44,9 +44,13 @@ url_poster = ""
   focal_point = ""
 +++
 
-Much of the urban traffic infrastructure is actually made of local streets with low volumes and with relatively low speeds. In those streets, usually, there is no need for segregated bicycle infrastructure and cycling can be incorporated into the general traffic. In order to secure cycling safety, usually 3 steps should be taken:
+### Background
+Much of the urban traffic infrastructure is actually made of local streets with low volumes and with relatively low speeds. In those streets, usually, there is no need for segregated bicycle infrastructure and cycling can be incorporated into the general traffic.
 
-1. Slow down the car traffic to maximum 30 km/h - this should be also with signs and enforcement and with physical measures like narrowing the street, speed bumps (less recommended) and other traffic calming measures.
+### implementation
+In order to secure cycling safety, usually 3 steps should be taken:
+
+1. Slow down the car traffic to maximum 30 km/h - this should be also with signs and enforcement and with physical measures like narrowing the street, speed bumps (less recommended) and other traffic calming measures. The lower speed should increase the safty of pedestrians and cyclist alike (Kim, et al., 2007)
 
 2. Give cyclists the Legitimacy - this can be done with signs such as "Cyclist may use full lane" and on-road sharrow-like markings in the middle of the street.
 
@@ -60,3 +64,6 @@ Now            |  Proposed
 :-------------------------:|:-------------------------:
 ![](/img/radak.JPG)  |  ![](/img/featured.jpg)
 ![](/img/kharlap.JPG)  |  ![](/img/kharlap_after.jpg)
+
+### References
+Kim, Joon-Ki, Sungyop Kim, Gudmundur F. Ulfarsson, and Luis A. Porrello. "Bicyclist injury severities in bicycle–motor vehicle accidents." *Accident Analysis & Prevention* 39, no. 2 (2007): 238-251.
