@@ -31,9 +31,6 @@ Going into that web page and scrolling down, we can see it was first created in 
 
 ### load the RSocrata data ###
     library(RSocrata)
-
-Find the url for the report
-
     url <- "https://data.cityofnewyork.us/resource/qiz3-axqb.json"
     ny_accidents <- read.socrata(url)
 
@@ -91,10 +88,10 @@ combining cyclists injured and fatalities
     ny_accidents <- ny_accidents %>%
       mutate(cyclists_casualties = number_of_cyclist_injured + number_of_cyclist_killed)
 
-taking only the casualties column with the data of the accident
-
+    # taking only the casualties column with the data of the accident
     cyclists_casualties <- ny_accidents %>%
       select(c("date", "cyclists_casualties"))
+
 grouping by month-year (lubridate does it nicely)
 
     library(lubridate)
