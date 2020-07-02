@@ -1,5 +1,5 @@
 +++
-title = "14 Steps for Better Parking Management"
+title = "Parking guide document"
 date = 2020-07-02T22:53:33+03:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "14 Steps for cities for managing its parking and transform it from a painful liability to a valuable resource"
+summary = "14 Steps for cities for transforming their parking from a painful liability to a valuable resource"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
