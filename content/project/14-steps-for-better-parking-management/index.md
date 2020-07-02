@@ -54,7 +54,7 @@ You can find the full document at calameo.com:
 <iframe src="//v.calameo.com/library/?type=account&id=6344207&rows=1&sortBy=latestPublished&theme=&bgColor=&thumbSize=large&showTitle=true&showShadow=true&showGloss=true&showInfo=linkTo=view&linkTarget=_blank" width="40%" height="300" frameborder="0" allowfullscreen allowtransparency></iframe>
 
 
-### The fourteen steps are:
+### A Summary of the fourteen steps:
 1. Dynamic Pricing: On the street, charge the appropriate price for every hour and every Area.
 2. Manage and price on-street parking for residents as well.
 3. "All may park - All must pay." Eliminate payment exemptions, even for disabled badge holders.
