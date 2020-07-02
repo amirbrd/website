@@ -72,27 +72,27 @@ You can find the full document at calameo.com:
 
 ### Bibliography
 Bakis, O., Inci, E., & Senturk, R. O. (2019). Unbundling curbside parking costs from housing
-prices. Journal of Economic Geography, 19(1), 89-119.
+prices. *Journal of Economic Geography*, 19(1), 89-119.
 
 Barter, P. A. (2015). A parking policy typology for clearer thinking on parking reform.
-International Journal of Urban Sciences, 19(2), 136-156.
+*International Journal of Urban Sciences*, 19(2), 136-156.
 
 Barter, P. A. Reinventing Parking. https://www.reinventingparking.org/p/podcast.html
 
 Brueckner, J. K. & Franco, S. F. (2018). Employer-paid parking, mode choice, and
-suburbanization. Journal of Urban Economics, 104, 35–46.
+suburbanization. *Journal of Urban Economics*, 104, 35–46.
 
 Burckhardt, L., Ritter, M., & Schmitz, M. (2015). Why Is Landscape Beautiful?: The Science
 of Strollology (1st ed.). Basel, Switzerland: Birkhäuser.
 
-Calthrop, E., & Proost, S. (2006). Regulating on-street parking. Regional Science and Urban
-Economics, 36(1), 29–48.
+Calthrop, E., & Proost, S. (2006). Regulating on-street parking. *Regional Science and Urban
+Economics*, 36(1), 29–48.
 
 Chris McCahill and Satya Rhodes-Conway. (2015) Urban Parking: Rational Policy
 Approaches for Cities and Towns. Mayors Innovation Project.
 
 Guo, Z. (2013). Does residential parking supply affect household car ownership? The case of
-New York City. Journal of Transport Geography, 26, 18-28.
+New York City. *Journal of Transport Geography*, 26, 18-28.
 
 Jacobs, J. (1961). The Death and Life of Great American Cities. New York: Random House.
 
@@ -102,7 +102,7 @@ Transport Policy Institute.
 Lynch, K. (1960). The Image of the City. MIT Press.
 
 Manville, M. & Williams, J. A. (2012). The price doesn’t matter if you don’t have to pay: legal
-exemptions and market-priced parking. Journal of Planning Education and Research,
+exemptions and market-priced parking. *Journal of Planning Education and Research*,
 32(3), 289–304.
 
 Portland Northwest Parking District Reports, https://www.portland.gov/transportation/parking/northwest-parking-district
@@ -118,8 +118,8 @@ Sim, D. (2019). Soft City: Building Density for Everyday Life. Island Press.
 Speck, J. (2012). Walkable City: How Downtown Can Save America, One Step at a Time.
 Farrar, Straus and Giroux.
 
-Van Ommeren, J., Wentink, D., & Dekkers, J. (2011). The real price of parking policy. Journal
-of Urban Economics, 70(1), 25-31.
+Van Ommeren, J., Wentink, D., & Dekkers, J. (2011). The real price of parking policy. *Journal
+of Urban Economics*, 70(1), 25-31.
 
 Weinberger, R. (2012). Death by a thousand curb-cuts: Evidence on the effect of minimum
-parking requirements on the choice to drive. Transport Policy, 20, 93-102.
+parking requirements on the choice to drive. *Transport Policy*, 20, 93-102.
