@@ -53,7 +53,6 @@ The full document in Hebrew:
 
 <div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="https://www.calameo.com/books/0063442071991309e32cd" target="_blank">חניה מ&#34;מצוקה&#34; למשאב בארבעה-עשר צעדים</a></div><iframe src="//v.calameo.com/?bkcode=0063442071991309e32cd&mode=mini" width="480" height="250" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"></div></div>
 
-
 ### A Summary of the fourteen steps:
 1. Dynamic Pricing: On the street, charge the appropriate price for every hour and every area.
 2. Manage and price on-street parking for residents as well.
@@ -69,6 +68,13 @@ The full document in Hebrew:
 12. Apply effective enforcement measures, but act fairly.
 13. Allocate most of the parking revenue to the area where they were collected.
 14. Distinguish between current residents living in the neighborhood and future residents.
+
+
+A new residential street in Jerusalem |  And at the same time and place
+:-------------------------:|:-------------------------:
+![](/img/har_homa_out.jpg)  |  ![](/img/har_homa_in.jpg)
+
+
 
 ### Bibliography
 Bakis, O., Inci, E., & Senturk, R. O. (2019). Unbundling curbside parking costs from housing
