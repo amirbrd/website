@@ -49,9 +49,9 @@ url_poster = ""
 Parking planning and management are key aspects of the transportation system and the urban built environment. On average, a private vehicle is in motion around 5% of the time. That is, the presence of a private vehicle on the move is the exception. However, most of the public attention the car receives is for when it is moving and not when it is parked. as a result, today in many cities, public parking management is deficient. In the absence of proper management of on-street parking pricing and without a systemic vision of the parking inventory, there is no optimal utilization of the parking resource. Data-based parking policies and proper pricing can create a reality of optimizing its utilization while reducing congestion and creating a better and more efficient urban space.
 All this has led me and Architect Maier Yagod to write (In Hebrew for now) the most extensive, but yet brief document on parking policy and management ever published in Israel. It includes fourteen steps for policymakers where the first nine are steps to implement and the last five are measures that can help cope with the political challenge of implementing the first nine.
 
-You can find the full document at calameo.com:
+The full document in Hebrew:
 
-<iframe src="//v.calameo.com/library/?type=account&id=6344207&rows=1&sortBy=latestPublished&theme=&bgColor=&thumbSize=large&showTitle=true&showShadow=true&showGloss=true&showInfo=linkTo=view&linkTarget=_blank" width="40%" height="300" frameborder="0" allowfullscreen allowtransparency></iframe>
+<div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="https://www.calameo.com/books/0063442071991309e32cd" target="_blank">חניה מ&#34;מצוקה&#34; למשאב בארבעה-עשר צעדים</a></div><iframe src="//v.calameo.com/?bkcode=0063442071991309e32cd&mode=mini" width="480" height="250" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"></div></div>
 
 
 ### A Summary of the fourteen steps:
