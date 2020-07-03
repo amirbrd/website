@@ -55,10 +55,10 @@ You can find the full document at calameo.com:
 
 
 ### A Summary of the fourteen steps:
-1. Dynamic Pricing: On the street, charge the appropriate price for every hour and every Area.
+1. Dynamic Pricing: On the street, charge the appropriate price for every hour and every area.
 2. Manage and price on-street parking for residents as well.
-3. "All may park - All must pay." Eliminate payment exemptions, even for disabled badge holders.
-4. Encourage employers to allow their employees to cash-out the parking with money.
+3. "All may park - All must pay." To Improve accessibility, eliminate payment exemptions, even for disabled badge holders.
+4. Encourage employers to allow their employees to cash-out parking with money.
 5. Remove minimum parking requirements.
 6. Park and walk - manage parking at the regional level.
 7. Manage and price parking at sporting and mass events.
@@ -68,7 +68,7 @@ You can find the full document at calameo.com:
 11. Technology is not a policy replacement, use it to support the policy.
 12. Apply effective enforcement measures, but act fairly.
 13. Allocate most of the parking revenue to the area where they were collected.
-14. Distinguish between the residents living in the neighborhood now and future residents.
+14. Distinguish between current residents living in the neighborhood and future residents.
 
 ### Bibliography
 Bakis, O., Inci, E., & Senturk, R. O. (2019). Unbundling curbside parking costs from housing
@@ -91,8 +91,12 @@ Economics*, 36(1), 29–48.
 Chris McCahill and Satya Rhodes-Conway. (2015) Urban Parking: Rational Policy
 Approaches for Cities and Towns. Mayors Innovation Project.
 
+Li, F., & Guo, Z. (2014). Do parking standards matter? Evaluating the London parking reform with a matched-pair approach. *Transportation Research Part A: Policy and Practice*, 67, 352-365.‏
+
 Guo, Z. (2013). Does residential parking supply affect household car ownership? The case of
 New York City. *Journal of Transport Geography*, 26, 18-28.
+
+Guo, Z., & Ren, S. (2013). From minimum to maximum: Impact of the London parking reform on residential parking supply from 2004 to 2010?. *Urban Studies*, 50(6), 1183-1200.‏
 
 Jacobs, J. (1961). The Death and Life of Great American Cities. New York: Random House.
 
