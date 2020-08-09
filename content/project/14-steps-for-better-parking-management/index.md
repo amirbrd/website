@@ -47,7 +47,7 @@ url_poster = ""
 ### Background
 
 Parking planning and management are key aspects of the transportation system and the urban built environment. On average, a private vehicle is in motion around 5% of the time. That is, the presence of a private vehicle on the move is the exception. However, most of the public attention the car receives is for when it is moving and not when it is parked. as a result, today in many cities, public parking management is deficient. In the absence of proper management and pricing of on-street parking, and without a systemic vision of the parking inventory, there is no optimal utilization of the parking resource. Data-based parking policies and proper pricing can create a reality of optimizing its utilization while reducing congestion and creating a better and more efficient urban space.
-All this has led me and architect Maier Yagod to write (In Hebrew for now) the most extensive, but yet brief, document on parking policy and management ever published in Israel. It includes fourteen steps for policymakers where the first nine are steps to implement and the last five are measures that can help cope with the political challenge of implementing the first nine.
+All this has led me and architect Maier Yagod to write (In Hebrew for now) an extensive, but yet brief, document on parking policy and management. The document is an attempt to make the research on parking that has been made by leading scholars around the world more accessible to the Israeli reader in the Israeli context. It includes fourteen steps for policymakers where the first nine are steps to implement and the last five are measures that can help cope with the political challenge of implementing the first nine.
 
 The full document in Hebrew:
 
@@ -133,3 +133,5 @@ of Urban Economics*, 70(1), 25-31.
 
 Weinberger, R. (2012). Death by a thousand curb-cuts: Evidence on the effect of minimum
 parking requirements on the choice to drive. *Transport Policy*, 20, 93-102.
+
+Wilson, R. W. (1992). Estimating the travel and parking demand effects of employer-paid parking. *Regional Science and Urban Economics*, 22(1), 133-145.
