@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "How can we quickly encourage more cycling in local city street where true segregation is not always required"
+summary = "How can we quickly encourage more cycling in local city street where true segregation is not required and especially, not possible"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -45,20 +45,20 @@ url_poster = ""
 +++
 
 ### Background
-Much of the urban traffic infrastructure is actually made of local streets with low volumes and with relatively low speeds. In those streets, usually, there is no need for segregated bicycle infrastructure and cycling can be incorporated into the general traffic.
+Much of the urban traffic infrastructure is actually made of local streets with low volumes and with relatively low speeds. In those streets, usually, there is no room for segregated bicycle infrastructure and cycling can be incorporated into the general traffic.
 
 ### implementation
 In order to secure cycling safety, usually 3 steps should be taken:
 
 1. Slow down the car traffic to maximum 30 km/h - this should be also with signs and enforcement and with physical measures like narrowing the street, speed bumps (less recommended) and other traffic calming measures. The lower speed should increase the safety of pedestrians and cyclist alike (Kim, et al., 2007)
 
-2. Give cyclists the Legitimacy - this can be done with signs such as "Cyclist may use full lane" and on-road sharrow-like markings in the middle of the road. Important: Use this measure on slow, low traffic volume streets. I have seen places (mainly in the U.S.) where sharrows are implemented on a wide, fast lanes. in these cases, a separated bike lane, or cycle path should be installed.
+2. Give cyclists the Legitimacy - this can be done with signs such as "Cyclist may use full lane" and on-road sharrow-like markings in the middle of the road. Important: Use this measure on slow (by measuring actual speeds, not just what signs are saying), low traffic volume streets (throughout the day and on peak times). I have seen places (mainly in the U.S.) where sharrows are implemented on a wide, fast lanes. in these cases, a separated bike lane, or cycle path should be installed.
 
 Now            |  Proposed
 :-------------------------:|:-------------------------:
 ![](/img/ben_maimon.JPG)  |  ![](/img/ben_maimon_after.jpg)
 
-3. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets.
+3. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure so far (PRESTO) and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets. Special care should be given to junctions with the use of visible marked cycle lanes or bicycle logos (Vandenbulcke, et al., 2014). Special care should be taken at garage exists and along the street to warn pedestrians.
 
 Now            |  Proposed
 :-------------------------:|:-------------------------:
@@ -66,4 +66,8 @@ Now            |  Proposed
 ![](/img/kharlap.JPG)  |  ![](/img/kharlap_after.jpg)
 
 ### References
-Kim, Joon-Ki, Sungyop Kim, Gudmundur F. Ulfarsson, and Luis A. Porrello. "Bicyclist injury severities in bicycle–motor vehicle accidents." *Accident Analysis & Prevention* 39, no. 2 (2007): 238-251.
+Kim, J. K., Kim, S., Ulfarsson, G. F., & Porrello, L. A. (2007). Bicyclist injury severities in bicycle–motor vehicle accidents. *Accident Analysis & Prevention*, 39(2), 238-251.
+
+CONTRA-FLOW CYCLING, Promoting cycling for everyone as daily transport mode (PRESTO), Accessible at: [https://ec.europa.eu/energy/intelligent/projects/sites/iee-projects/files/projects/documents/presto_fact_sheet_contra_flow_cycling_en.pdf](https://ec.europa.eu/energy/intelligent/projects/sites/iee-projects/files/projects/documents/presto_fact_sheet_contra_flow_cycling_en.pdf)
+
+Vandenbulcke, G., Thomas, I., & Panis, L. I. (2014). Predicting cycling accident risk in Brussels: a spatial case–control approach. *Accident Analysis & Prevention*, 62, 341-357.
