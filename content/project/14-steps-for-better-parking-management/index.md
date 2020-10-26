@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "14 Steps for cities for transforming their parking from a painful liability to a valuable resource"
+summary = "Fourteen Steps for cities for transforming their parking from a painful liability to a valuable resource"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
