@@ -45,20 +45,19 @@ url_poster = ""
 +++
 
 ### Background
-Much of the urban traffic infrastructure is actually made of local streets with low volumes and with relatively low speeds. In those streets, usually, there is no room for segregated bicycle infrastructure and cycling can be incorporated into the general traffic.
+Much of the urban traffic infrastructure is actually made of local streets with low volumes and relatively low speeds. There is usually no room for segregated bicycle infrastructure in those streets, and cycling can be incorporated into the general traffic.
 
 ### implementation
-In order to secure cycling safety, usually 3 steps should be taken:
+To secure cycling safety, usually, three steps can be taken:
 
-1. Slow down the car traffic to maximum 30 km/h - this should be also with signs and enforcement and with physical measures like narrowing the street, speed bumps (less recommended) and other traffic calming measures. The lower speed should increase the safety of pedestrians and cyclist alike (Kim, et al., 2007)
+1. Slow down the car traffic to a maximum of 30 km/h - this should also be with signs and enforcement and with physical measures like narrowing the street, speed bumps (less recommended), and other traffic calming measures. The lower speed should increase the safety of pedestrians and cyclist alike (Kim, et al., 2007)
 
-2. Give cyclists the Legitimacy - this can be done with signs such as "Cyclist may use full lane" and on-road sharrow-like markings in the middle of the road. Important: Use this measure on slow (by measuring actual speeds, not just what signs are saying), low traffic volume streets (throughout the day and on peak times). I have seen places (mainly in the U.S.) where sharrows are implemented on a wide, fast lanes. in these cases, a separated bike lane, or cycle path should be installed.
-
+2. Give cyclists the Legitimacy - this can be done with signs such as "Cyclist may use full lane" and on-road sharrow-like markings in the middle of the road. Important: Use this measure on slow (by measuring actual speeds, not just what signs are saying), low traffic volume streets (throughout the day and on peak times). I have seen places (mainly in the U.S.) where sharrows are implemented on wide, fast lanes. In these cases, a separate bike lane or cycle path should be installed.
 Now            |  Proposed
 :-------------------------:|:-------------------------:
 ![](/img/ben_maimon.JPG)  |  ![](/img/ben_maimon_after.jpg)
 
-3. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure so far (PRESTO) and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets. Special care should be given to junctions with the use of visible marked cycle lanes or bicycle logos (Vandenbulcke, et al., 2014). Special care should be taken at garage exists and along the street to warn pedestrians.
+3. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure so far (PRESTO) and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets. Special care should be given to junctions using visibly marked cycle lanes or bicycle logos (Vandenbulcke, et al., 2014). Special care should be taken at garage exits and along the street to warn pedestrians.
 
 Now            |  Proposed
 :-------------------------:|:-------------------------:

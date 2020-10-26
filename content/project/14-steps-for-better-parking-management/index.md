@@ -46,15 +46,14 @@ url_poster = ""
 
 ### Background
 
-Parking planning and management are key aspects of the transportation system and the urban built environment. On average, a private vehicle is in motion around 5% of the time. That is, the presence of a private vehicle on the move is the exception. However, most of the public attention the car receives is for when it is moving and not when it is parked. as a result, today in many cities, public parking management is deficient. In the absence of proper management and pricing of on-street parking, and without a systemic vision of the parking inventory, there is no optimal utilization of the parking resource. Data-based parking policies and proper pricing can create a reality of optimizing its utilization while reducing congestion and creating a better and more efficient urban space.
-All this has led me and architect Maier Yagod to write (In Hebrew for now) an extensive, but yet brief, document on parking policy and management. The document is an attempt to make the research on parking that has been made by leading scholars around the world more accessible to the Israeli reader in the Israeli context. It includes fourteen steps for policymakers where the first nine are steps to implement and the last five are measures that can help cope with the political challenge of implementing the first nine.
+Parking planning and management are critical aspects of the transportation system and the urban built environment. On average, a private vehicle is in motion around 5% of the time. That is, the presence of a private car on the move is the exception. However, most of the car's public attention is for when it is moving and not when it is parked. As a result, today, in many cities, public parking management is deficient. In the absence of proper management and pricing of on-street parking, and without a systemic vision of the parking inventory, there is no optimal parking resource utilization. Data-based parking policies and proper pricing can create a reality of optimizing its utilization while reducing congestion and creating a better and more efficient urban space. All this has led architect Maier Yagod and me to write (In Hebrew for now) an extensive, but yet brief, document on parking policy and management. The document attempts to make the research on parking that has been made by leading scholars around the world more accessible to the Israeli reader in the Israeli context. It includes fourteen steps for policymakers, where the first nine are steps to implement, and the last five are measures that can help cope with the political challenge of implementing the first nine.
 
 The full document in Hebrew:
 
 <div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="https://www.calameo.com/books/0063442071991309e32cd" target="_blank">חניה מ&#34;מצוקה&#34; למשאב בארבעה-עשר צעדים</a></div><iframe src="//v.calameo.com/?bkcode=0063442071991309e32cd&mode=mini" width="480" height="250" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"></div></div>
 
 ### A Summary of the fourteen steps:
-1. Dynamic Pricing: On the street, charge the appropriate price for every hour and every area.
+1. Dynamic Pricing: On the street, charge the right price for every hour and area.
 2. Manage and price on-street parking for residents as well.
 3. "All may park - All must pay." To Improve accessibility, eliminate payment exemptions, even for disabled badge holders.
 4. Encourage employers to allow their employees to cash-out parking with money.
@@ -62,9 +61,9 @@ The full document in Hebrew:
 6. Park and walk - manage parking at the regional level.
 7. Manage and price parking at sporting and mass events.
 8. Create parking spaces for two-wheelers and manage them too.
-9. Mark where parking is allowed, not where parking is not allowed.
+9. Mark where parking is allowed, not where parking is not permitted.
 10. Disconnect politics from the price.
-11. Technology is not a policy replacement, use it to support the policy.
+11. Technology is not a policy replacement. Use it to support the policy.
 12. Apply effective enforcement measures, but act fairly.
 13. Allocate most of the parking revenue to the area where they were collected.
 14. Distinguish between current residents living in the neighborhood and future residents.
