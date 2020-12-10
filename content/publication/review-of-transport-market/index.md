@@ -26,7 +26,7 @@ publication_short = ""
 abstract = "Transport markets involve interactions between multiple groups of decision-makers, hence they are good candidates to be analyzed through the prism of game theory. The many models and algorithms published to date tend to reflect different academic disciplines, including operations research, economics and engineering approaches. Models published in the operations research oriented journals often involve large network components in order to provide relatively specific insights, building on Stackelberg, Wardrop and traffic assignment formulations. Game-theoretic models published in economics journals are frequently conceptual with stylized assumptions, such as Cournot, Bertrand and Hotelling, all of which have been applied to transportation markets. We present the more common models and highlight the differences in the equilibria outcomes drawing from the choice of model and beliefs of the players in the market. We discuss the most widely applied algorithms and formulations utilized to solve network-based transport markets. Finally, we review the published literature with real-world applications and discuss potential new areas yet to be explored substantially, including the analysis of multi-modal markets involving both competition and cooperation across transport modes."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "*European Journal of Operational Research (2020)*"
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.ejor.2020.11.020"
