@@ -108,4 +108,4 @@ Let us plot the casualties with ggplot2
 
 ![](/img/cyclist_casualties.png)
 
-**Important note:** We should always remember that each point in the graph represents hundreds of people whose lives might have been shuttered, or even finished, in an instant. Many casualties were hit by a 1+ ton vehicle cruising in city streets at speeds of 50 km/h or more.
+**Important note:** We should always remember that each point in the graph represents tens or even hundreds of people whose lives might have been shuttered or even finished instantly. Many casualties were hit by a vehicle cruising in city streets at 50 km/h or more.
