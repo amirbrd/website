@@ -47,7 +47,7 @@ url_poster = ""
 ### Background
 Much of the urban traffic infrastructure is actually made of local streets with low volumes and relatively low speeds. There is usually no room for segregated bicycle infrastructure in those streets, and cycling can be incorporated into the general traffic. It is important to understand the local context to see whether the measures are valid. For example, In Israel, a large percentage of bike commuters use an electric bicycle. This fact can result in a different outcome than in other places.
 
-### implementation
+### Implementation
 To secure cycling safety, usually, three steps can be taken:
 
 1. Slow down the car traffic to a maximum of 30 km/h - this should also be with signs and enforcement and with physical measures like narrowing the street, speed bumps (less recommended), and other traffic calming measures. The lower speed should increase the safety of pedestrians and cyclist alike (Kim, et al., 2007)
