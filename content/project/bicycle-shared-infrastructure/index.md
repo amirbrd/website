@@ -58,7 +58,7 @@ Now            |  Proposed
 :-------------------------:|:-------------------------:
 ![](/img/ben_maimon.JPG)  |  ![](/img/ben_maimon_after.jpg)
 
-3. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure so far (PRESTO) and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets. Special care should be given to junctions using visibly marked cycle lanes or bicycle logos (Vandenbulcke, et al., 2014). Special care should be taken at garage exits and along the street to warn pedestrians.
+Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure so far (PRESTO) and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets. Special care should be given to junctions using visibly marked cycle lanes or bicycle logos (Vandenbulcke, et al., 2014). Special care should be taken at garage exits and along the street to warn pedestrians.
 
 Now            |  Proposed
 :-------------------------:|:-------------------------:
