@@ -54,9 +54,9 @@ To secure cycling safety, usually, three steps can be taken:
 
 1. Give cyclists the Legitimacy - this can be done with signs such as "Cyclist may use full lane" and on-road sharrow-like markings in the middle of the road. Important: Use this measure on slow (by measuring actual speeds, not just what signs are saying), low traffic volume streets (throughout the day and on peak times). I have seen places (mainly in the U.S.) where sharrows are implemented on wide, fast lanes. In these cases, a separate bike lane or cycle path should be installed.
 
-Now            |  Proposed
-:-------------------------:|:-------------------------:
-![](/img/ben_maimon.JPG)  |  ![](/img/ben_maimon_after.jpg)
+    Now            |  Proposed
+    :-------------------------:|:-------------------------:
+    ![](/img/ben_maimon.JPG)  |  ![](/img/ben_maimon_after.jpg)
 
 1. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure so far (PRESTO) and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets. Special care should be given to junctions using visibly marked cycle lanes or bicycle logos (Vandenbulcke, et al., 2014). Special care should be taken at garage exits and along the street to warn pedestrians.
 
