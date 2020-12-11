@@ -60,10 +60,10 @@ To secure cycling safety, usually, three steps can be taken:
 
 1. Contraflow cycling - make it possible for cyclists to ride both ways in one-way streets. This has been proven as a safe measure so far (PRESTO) and by itself functions as a traffic calming measure. This method is currently the default measure for one-way streets in France and Belgium. Again, implement on slow, low traffic volume streets. Special care should be given to junctions using visibly marked cycle lanes or bicycle logos (Vandenbulcke, et al., 2014). Special care should be taken at garage exits and along the street to warn pedestrians.
 
-Now            |  Proposed
-:-------------------------:|:-------------------------:
-![](/img/radak.JPG)  |  ![](/img/featured.jpg)
-![](/img/kharlap.JPG)  |  ![](/img/kharlap_after.jpg)
+    Now            |  Proposed
+    :-------------------------:|:-------------------------:
+    ![](/img/radak.JPG)  |  ![](/img/featured.jpg)
+    ![](/img/kharlap.JPG)  |  ![](/img/kharlap_after.jpg)
 
 ### References
 Kim, J. K., Kim, S., Ulfarsson, G. F., & Porrello, L. A. (2007). Bicyclist injury severities in bicycle–motor vehicle accidents. *Accident Analysis & Prevention*, 39(2), 238-251.
