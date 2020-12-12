@@ -29,7 +29,7 @@ So first, let's navigate to the [Department of Transportation (DOT) data page](h
 Going into that web page and scrolling down, we can see it was first created in April 2014. When writing this post, the data contains more than 1.5 million records and 29 columns. Scrolling further down, we can see which columns are available, e.g., date, time, borough, etc. scrolling back to the top, we can see the API button. Clicking on that, and we can see the JSON API endpoint link. This is the link we need to connect and extract the data. Copy it to the clipboard.
 ![](/img/ny-collisions-api.jpg)
 
-### load the RSocrata data ###
+### Load the RSocrata data ###
     library(RSocrata)
     url <- "https://data.cityofnewyork.us/resource/qiz3-axqb.json"
     ny_accidents <- read.socrata(url)
