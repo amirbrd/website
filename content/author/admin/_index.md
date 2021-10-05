@@ -25,6 +25,7 @@ email = ""
 interests = [
   "Transportation and parking policy",
   "Aviation and airport competition",
+  "Automated vehicles"
   "Game Theory",
   "Machine Learning"
 ]
@@ -35,9 +36,9 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Operations Research"
+  course = "PhD candidate in Operations Research"
   institution = "The Hebrew University, Israel"
-  year = 2020
+  year = on going
 
 [[education.courses]]
   course = "Thesis in Game Theory"
