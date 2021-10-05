@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Transportation and parking policy",
   "Aviation and airport competition",
-  "Automated vehicles"
+  "Automated vehicles",
   "Game Theory",
   "Machine Learning"
 ]
