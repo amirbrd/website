@@ -38,7 +38,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD candidate in Operations Research"
   institution = "The Hebrew University, Israel"
-  year = on going
+  year = 2021
 
 [[education.courses]]
   course = "Thesis in Game Theory"
