@@ -9,6 +9,10 @@ title = "Scientific Presentations"
 subtitle = ""
 
 +++
+* [informs Annual Meeting, Anaheim, CA, USA 2021](https://f.hubspotusercontent30.net/hubfs/3449182/Anaheim%20In%20Person.pdf?__hstc=194041586.344708b935596ace194eacabff933092.1634024544344.1634279613853.1634936161682.4&__hssc=194041586.4.1634936161682&__hsfp=2187346942&hsCtaTracking=0894ce36-3b18-40e3-9d5e-1885f415a027%7Cfab926e4-b4e2-4b96-b86e-7da33ffe1894)
+
+* [The Operations Research Society of Israel (ORSIS) Conference, Israel 2021](https://drive.google.com/file/d/1qcdLJlooNF_G33m_PwLMfNvCl_bGTEav/view)
+
 
 * [17th GARS Junior Research Workshop, 2020](https://garsonline.de/wp-content/uploads/2020/05/Program_GARS-JRW-2020_v03-2020.05.28.pdf)
 
