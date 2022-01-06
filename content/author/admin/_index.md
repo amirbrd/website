@@ -43,7 +43,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "Thesis in Game Theory"
   institution = "Ben-Gurion University, Israel"
-  year = 2015
+  year = 2016
 
 [[education.courses]]
   course = "MBA, Finance and Accounting"
