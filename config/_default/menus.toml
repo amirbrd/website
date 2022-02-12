@@ -28,6 +28,11 @@ url = "#tutorials"
    url = "#presentations"
   weight = 45
 
+  [[main]]
+    name = "Media"
+    url = "#media"
+    weight = 47
+
 [[main]]
   name = "Teaching"
   url = "#teaching"
