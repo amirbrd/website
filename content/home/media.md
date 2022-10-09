@@ -13,4 +13,4 @@ subtitle = ""
 
 * [Globes, February 12, 2022 (Hebrew)](https://www.globes.co.il/news/article.aspx?did=1001401711)
 
-* [Haaretz, October 9, 2022 (Hebrew)](https://www.themarker.com/realestate/2022-10-09/ty-article-magazine/.highlight/00000183-4f92-d54c-a9cb-dfd75e210000)
+* [The Marker, October 9, 2022 (Hebrew)](https://www.themarker.com/realestate/2022-10-09/ty-article-magazine/.highlight/00000183-4f92-d54c-a9cb-dfd75e210000)
