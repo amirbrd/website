@@ -1,6 +1,6 @@
 +++
 title = "Does big data help answer big questions? The case of airport catchment areas & competition"
-date = 2020-10-10T12:52:43+02:00
+date = 2022-10-10T12:52:43+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Amir Brudner", "Riccardo Galloti", "Filippo Privitera", "Jose J. Ramasco", "Nicole Adler"]
