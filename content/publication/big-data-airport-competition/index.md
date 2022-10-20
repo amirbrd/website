@@ -31,7 +31,7 @@ ICT dataset. The spatial demand is regressed over demographic, socio-economic, a
 summary = "*Revise and resubmit*"
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "111"
 
 # Is this a featured publication? (true/false)
 featured = false
