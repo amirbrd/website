@@ -1,9 +1,9 @@
 +++
-title = "Does big data help answer big questions? The case of airport catchment areas & competition"
-date = 2020-10-10T12:52:43+02:00
+title = "On the management of residential on-street parking: practices and effects"
+date = 2022-10-10T12:52:43+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amir Brudner", "Riccardo Galloti", "Filippo Privitera", "Jose J. Ramasco", "Nicole Adler"]
+authors = ["Amir Brudner"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = "Revise and resubmit"
 publication_short = ""
 
 # Abstract.
-abstract = "We develop algorithms to analyse Information and Communication Technologies (ICT) data in order to estimate individuals' mobility at different spatial scales. Specifically, we apply the algorithms to delineate airport catchment areas in the United Kingdom's Greater London region and to estimate ground access trip times from a very large ICT dataset. The spatial demand is regressed over demographic, socio-economic, airport-specific and ground access modal characteristics in order to determine the drivers of airport demand. Drawing on these insights, we develop a catchment area game inspired by Hotelling that analyses the potential impact of collaboration between airports and airlines by integrating evidence of consumer behavior with producers' financial data. We apply the game to a case study of two London airports with overlapping catchment areas for local residents. Our assessment of airline-airport vertical collusion and airport-airport horizontal collusion indicates that the former is beneficial to both producers and passengers. In contrast, whilst horizontal and vertical collusion is the equilibrium outcome in the analytic symmetric case, it is found to be less likely in the asymmetric case and the real-world, data-driven analysis, due to catchment area and cost asymmetries. Thus, such new datasets may enable regulators to overcome the long-standing information asymmetry issue that has yet to be resolved. Combining new data sources with traditional consumer surveys may provide more informed insights into both consumers' and producers' actions, which determines the need (or lack thereof) for regulatory intervention in aviation markets."
+abstract = "Cities usually handle residential parking through on-street parking management and off-street parking requirements. The two may affect one another but are frequently managed independently. This paper focuses on residential on-street parking management often executed through residential parking permit programs. We present the relatively scarce literature and survey various tools used by cities around the globe. We discuss the political explosiveness of the programs' implementation and highlight the research gap on the subject, whose closing may help promote more sustainable policies and make the procedures more politically acceptable. These suggestions become highly relevant today with a new wave of technologies that opens the way for the widespread implementation of economic-based policies without the burden of high installation and maintenance costs of meters and enforcement. We further make efforts to close the knowledge gap by utilizing qualitative and quantitative evidence for some of the ideas presented."
 
 # Summary. An optional shortened abstract.
 summary = "*Revise and resubmit*"
