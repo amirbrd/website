@@ -1,5 +1,5 @@
 +++
-title = "A review of transport market modeling using game-theoretic principles"
+title = "A review of transport market modeling using game-theoretic principle"
 date = 2020-12-10T12:52:43+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
