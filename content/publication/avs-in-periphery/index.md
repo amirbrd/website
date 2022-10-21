@@ -1,9 +1,9 @@
 +++
-title = "Impact of autonomous vehicles on public transport in medium haul markets - A case study of the Spanish network"
+title = "Adopting automated vehicles and creating equitable transport markets"
 date = 2022-10-10T12:52:43+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nicole Adler", "Eliel Blum", "Amir Brudner"]
+authors = ["Amir Brudner", "Nicole Adler"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = "Working paper"
 publication_short = ""
 
 # Abstract.
-abstract = "In recent years there has been significant technological progress in the development of autonomous vehicles but less discussion from an economic prospective. In this research, we examine the potential impact of autonomous vehicles on public transport and air services in the 300 to 700 km medium-haul market, which was assigned by the EU in 2010 as one of the targets for vehicle trip reductions through investments in rail transport infrastructure. Current data reveals that the private car remains a significant player in the medium-haul corridor due to flexibility of use and high door-to-door accessibility, despite the additional trip time and fatigue involved. Introduction of the autonomous vehicle has the potential to eliminate these disadvantages, increasing competition in the public transport and aviation domestic, medium-haul, market. To investigate the impact of the autonomous vehicle on these markets, we develop an applied game-theoretic model to analyze the potential transport equilibria outcome associated with four profit-maximizing competitors, which include a high-speed railway operators, airlines, and autonomous vehicle companies, offering single passenger or ride-sharing options. The supply-side decision variables for the high-speed railway company and airline include fares and frequencies, whilst the autonomous car company’s decision variables are fares and fleet size. We model the demand-side using a nested logit, market share function that accounts for the transport providers' decisions and the passengers’ utility. We apply the formulation to a case study of corridors from Madrid to five destinations, using anonymized mobile phone records which to define demand are combined with data from the Google Maps API for the supply side data. Preliminary results suggest that autonomous vehicles will directly impact high-speed railway fares and airfares. Furthermore, increased use of autonomous vehicles could potentially undo any gains that were expected to be achieved by the proposals included in the 2010 EU White Paper, “European transport policy for 2010: time to decide”, whose goals were to reduce vehicle trips by encouraging drivers to switch to other transport modes."
+abstract = "The age of automated vehicles (AVs) opens new opportunities to improve accessibility, particularly in low-density suburbs where traditional public transportation often fails to deliver an adequate service. However, the characteristics of automated vehicles may adversely affect transport equilibria by decreasing demand and service levels as a result of a reduction in public transport frequency. In this research, we aim to maximize the positive externalities due to AVs, such as mobility for under-served populations, whilst minimizing potential negative externalities such as congestion, in order to ensure an equitable and inclusive transportation system. We develop a stylized suburban neighborhood model that is connected to a central business district. We compare the market structure results to an optimal social welfare outcome and derive subsidies and congestion charges. The results suggest that a duopoly market structure leads to reasonable service levels at a relatively low cost, which is close to the social optimum but requires subsidies for AV services. Second-best solutions implications are also discussed. The findings may aid policymakers in developing regulatory tools that generate equitable transport equilibria outcomes."
 
 # Summary. An optional shortened abstract.
 summary = "*Working paper*"
