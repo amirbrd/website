@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD candidate of Operations Research"
+role = "Ph.D., Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -94,4 +94,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an [Operations Research](http://bschool-8-21.huji.ac.il/en/Faculty_%26amp%3B_Research/Academic_Departments#or) [PhD candidate](http://bschool-8-21.huji.ac.il/en//Faculty_%26amp%3B_Research/Research_Students/Amir_Brudner) at [The School of Business Administration](http://bschool-8-21.huji.ac.il//en) in [The Hebrew University of Jerusalem](https://en.huji.ac.il/en/), advised by Prof. [Nicole Adler](https://nicoleadler.huji.ac.il/). My research focuses on optimizing transportation policy using game theory modeling tools and big data analyses to validate the models. I'm also preparing policy papers on transportation issues in Israel, mostly [parking](project/14-steps-for-better-parking-management/) and [biking](project/bicycle-shared-infrastructure/), and presenting them in various forums.
+I am a researcher [PhD candidate](http://bschool-8-21.huji.ac.il/en//Faculty_%26amp%3B_Research/Research_Students/Amir_Brudner) at [The School of Business Administration](http://bschool-8-21.huji.ac.il//en) in [The Hebrew University of Jerusalem](https://en.huji.ac.il/en/). I completed my doctorate (2022) in the field of [Operations Research](http://bschool-8-21.huji.ac.il/en/Faculty_%26amp%3B_Research/Academic_Departments#or) under Prof. [Nicole Adler](https://nicoleadler.huji.ac.il/). My research focuses on optimizing transportation policy using game theory modeling tools and big data analyses to validate the models. I'm also preparing policy papers on transportation issues in Israel, mostly [parking](project/14-steps-for-better-parking-management/) and [biking](project/bicycle-shared-infrastructure/), and presenting them in various forums.
