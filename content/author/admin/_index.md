@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D., Researcher"
+role = "Ph.D., Post doctoral Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The Hebrew University Business School", url = "http://bschool-8-21.huji.ac.il/en/" } ]
+organizations = [ { name = "Massachusetts Institute of Technology, The Hebrew University Business School", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include applying operations research methods to transportation policy."
