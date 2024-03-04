@@ -14,7 +14,7 @@ role = "Postdoctoral Researcher"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Massachusetts Institute of Technology", url="https://www.its.mit.edu/team"}
-#, {name = "The Hebrew Uni of Jerusalem", url = "https://bschool-en.huji.ac.il/amir-brudner" }
+#, {name = "The Hebrew University of Jerusalem", url = "https://bschool-en.huji.ac.il/amir-brudner" }
 ]
 
 # Short bio (displayed in user profile at end of posts)
@@ -96,4 +96,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a post doctoral researcher at the [Intelligent Transportation Systems lab at MIT](https://www.its.mit.edu) and at [The Hebrew University Business School](https://bschool-en.huji.ac.il//). I completed my doctorate (2022) in the field of [Operations Research](https://bschool-en.huji.ac.il/academic-units) under Prof. [Nicole Adler](https://nicoleadler.huji.ac.il/). My research focuses on optimizing transportation policy using game theory modeling tools and big data analyses to validate the models. I'm also preparing policy papers on transportation issues in Israel, mostly [parking](project/14-steps-for-better-parking-management/) and [biking](project/bicycle-shared-infrastructure/), and presenting them in various forums.
+I am a post doctoral researcher at the [Intelligent Transportation Systems lab at MIT](https://www.its.mit.edu). I completed my doctorate (2022) in the field of [Operations Research](https://bschool-en.huji.ac.il/academic-units) under Prof. [Nicole Adler](https://nicoleadler.huji.ac.il/). My research focuses on optimizing transportation policy using game theory modeling tools and big data analyses to validate the models. I'm also preparing policy papers on transportation issues in Israel, mostly [parking](project/14-steps-for-better-parking-management/) and [biking](project/bicycle-shared-infrastructure/), and presenting them in various forums.
